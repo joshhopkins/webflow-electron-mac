@@ -1,4 +1,4 @@
-# Unofficial Webflow Chromium wrapper for MacOS
+# Chromium wrapped Webflow for MacOS (Unofficial)
 
 ## Installation
 
